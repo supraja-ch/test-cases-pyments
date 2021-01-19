@@ -1,0 +1,3 @@
+{
+  "test_external_payment.py::test_endpoint_for_invalid_request_type": true
+}
