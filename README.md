@@ -44,8 +44,9 @@ run the following command to do so.
  ## How to test the application
  
    1. run the server first using above step
-   2. in seperate terminal, run `cd application/test` ie go to test folder
-   3. run comands: `pytest test_external_payment.py`
+   2. give path in .py files "sys.path.append('path/to/application')
+   3. in seperate terminal, run `cd application/test` ie go to test folder
+   4. run comands: `pytest test_external_payment.py`
    
  ### Shortcoming OR consideration 
  
